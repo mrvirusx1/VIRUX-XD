@@ -31,7 +31,7 @@ It includes auto-reply, group management, premium features, and can be deployed 
 ---
 
 ## 🖤 Screenshots / Demo
-*(Add screenshots of your bot here if you want)*  
+*(https://imgur.com/a/4OJ6BIz)*  
 
 ---
 
